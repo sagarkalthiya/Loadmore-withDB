@@ -1,0 +1,2 @@
+rootProject.name = "loadmoreDB"
+include ':app'
